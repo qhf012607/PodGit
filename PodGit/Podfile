@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+
+target ‘PodGit’ do
+  pod 'MJExtension'
+  pod 'HFToolHandle'
+end
