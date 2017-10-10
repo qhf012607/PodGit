@@ -1,1 +1,0 @@
-../../../HFToolHandle/HFToolHandle/HFToolText.h
